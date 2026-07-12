@@ -1,0 +1,43 @@
+{
+  "nofireworkfly_neo.configuration.title": "鞘翅增强 配置",
+  "nofireworkfly_neo.configuration.section.nofireworkfly.common.toml": "飞行设置",
+  "nofireworkfly_neo.configuration.section.nofireworkfly.common.toml.title": "鞘翅增强模组配置",
+
+  "nofireworkfly_neo.message.too_hungry_to_fly": "§c§l饥饿状态下无法飞行！",
+
+  "nofireworkfly_neo.configuration.enableNoFireworkFlight": "启用无烟花飞行",
+  "nofireworkfly_neo.configuration.enableNoFireworkFlight.tooltip": "关闭后鞘翅恢复原版行为，所有增强功能失效",
+
+  "nofireworkfly_neo.configuration.armorSlows": "盔甲减速",
+  "nofireworkfly_neo.configuration.armorSlows.tooltip": "盔甲是否降低鞘翅飞行速度",
+
+  "nofireworkfly_neo.configuration.canSlowFall": "缓降切换",
+  "nofireworkfly_neo.configuration.canSlowFall.tooltip": "飞行中按潜行键停止飞行并施加缓降效果",
+
+  "nofireworkfly_neo.configuration.maxSlowedMultiplier": "最大减速倍率",
+  "nofireworkfly_neo.configuration.maxSlowedMultiplier.tooltip": "满盔甲时的最大减速倍率 (1.0 - 10.0)",
+
+  "nofireworkfly_neo.configuration.wingsSpeed": "飞行速度",
+  "nofireworkfly_neo.configuration.wingsSpeed.tooltip": "鞘翅基础飞行速度，0.01=一级火箭，0.03=三级火箭 (0.001 - 0.1)",
+
+  "nofireworkfly_neo.configuration.consumeDurability": "消耗鞘翅耐久",
+  "nofireworkfly_neo.configuration.consumeDurability.tooltip": "飞行时是否消耗鞘翅耐久度，关闭则永不损耗",
+
+  "nofireworkfly_neo.configuration.consumeHunger": "消耗饥饿值",
+  "nofireworkfly_neo.configuration.consumeHunger.tooltip": "飞行时是否消耗饥饿值",
+
+  "nofireworkfly_neo.configuration.exhaustionAmount": "饥饿消耗速率",
+  "nofireworkfly_neo.configuration.exhaustionAmount.tooltip": "飞行时每刻消耗的饥饿值 (0.0 - 1.0)",
+
+  "nofireworkfly_neo.configuration.requiredFoodAmount": "最低飞行饥饿值",
+  "nofireworkfly_neo.configuration.requiredFoodAmount.tooltip": "饥饿值低于此值将无法飞行 (0.0 - 20.0)",
+
+  "nofireworkfly_neo.configuration.maxHeightEnabled": "限制飞行高度",
+  "nofireworkfly_neo.configuration.maxHeightEnabled.tooltip": "是否强制限制最大飞行高度",
+
+  "nofireworkfly_neo.configuration.dropOutOfSkyWhenTired": "饥饿耗尽停飞",
+  "nofireworkfly_neo.configuration.dropOutOfSkyWhenTired.tooltip": "饥饿值耗尽时是否自动停止飞行",
+
+  "nofireworkfly_neo.configuration.maxHeightAboveWorld": "最大飞行高度",
+  "nofireworkfly_neo.configuration.maxHeightAboveWorld.tooltip": "允许飞行的世界高度上限之上额外高度 (16 - 384)"
+}

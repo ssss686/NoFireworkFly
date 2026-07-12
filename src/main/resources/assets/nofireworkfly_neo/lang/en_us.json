@@ -1,0 +1,43 @@
+{
+  "nofireworkfly_neo.configuration.title": "NoFireWorkFly Config",
+  "nofireworkfly_neo.configuration.section.nofireworkfly.common.toml": "Flight Settings",
+  "nofireworkfly_neo.configuration.section.nofireworkfly.common.toml.title": "Elytra Enhancement Config",
+
+  "nofireworkfly_neo.message.too_hungry_to_fly": "§c§lToo hungry to fly!",
+
+  "nofireworkfly_neo.configuration.enableNoFireworkFlight": "Enable No-Firework Flight",
+  "nofireworkfly_neo.configuration.enableNoFireworkFlight.tooltip": "When disabled, elytra behaves like vanilla and all enhancements are turned off",
+
+  "nofireworkfly_neo.configuration.armorSlows": "Armor Slows",
+  "nofireworkfly_neo.configuration.armorSlows.tooltip": "Whether armor slows elytra flight speed",
+
+  "nofireworkfly_neo.configuration.canSlowFall": "Slow Fall",
+  "nofireworkfly_neo.configuration.canSlowFall.tooltip": "Press sneak while flying to stop and apply slow falling",
+
+  "nofireworkfly_neo.configuration.maxSlowedMultiplier": "Max Slow Multiplier",
+  "nofireworkfly_neo.configuration.maxSlowedMultiplier.tooltip": "Maximum speed reduction from armor at full armor points (1.0 - 10.0)",
+
+  "nofireworkfly_neo.configuration.wingsSpeed": "Flight Speed",
+  "nofireworkfly_neo.configuration.wingsSpeed.tooltip": "Base flight speed, 0.01=rocket lv1, 0.03=rocket lv3 (0.001 - 0.1)",
+
+  "nofireworkfly_neo.configuration.consumeDurability": "Consume Durability",
+  "nofireworkfly_neo.configuration.consumeDurability.tooltip": "Whether elytra loses durability during flight, false = unbreakable",
+
+  "nofireworkfly_neo.configuration.consumeHunger": "Consume Hunger",
+  "nofireworkfly_neo.configuration.consumeHunger.tooltip": "Whether flight consumes hunger",
+
+  "nofireworkfly_neo.configuration.exhaustionAmount": "Exhaustion Amount",
+  "nofireworkfly_neo.configuration.exhaustionAmount.tooltip": "Hunger exhaustion per flight tick (0.0 - 1.0)",
+
+  "nofireworkfly_neo.configuration.requiredFoodAmount": "Required Food",
+  "nofireworkfly_neo.configuration.requiredFoodAmount.tooltip": "Minimum food level required to fly (0.0 - 20.0)",
+
+  "nofireworkfly_neo.configuration.maxHeightEnabled": "Max Height Enabled",
+  "nofireworkfly_neo.configuration.maxHeightEnabled.tooltip": "Whether to enforce a maximum flight height",
+
+  "nofireworkfly_neo.configuration.dropOutOfSkyWhenTired": "Drop When Tired",
+  "nofireworkfly_neo.configuration.dropOutOfSkyWhenTired.tooltip": "Stop flying when food runs out",
+
+  "nofireworkfly_neo.configuration.maxHeightAboveWorld": "Max Height Above World",
+  "nofireworkfly_neo.configuration.maxHeightAboveWorld.tooltip": "Maximum height above world limit for flight (16 - 384)"
+}
