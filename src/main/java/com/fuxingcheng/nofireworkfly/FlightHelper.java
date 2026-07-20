@@ -44,7 +44,7 @@ public final class FlightHelper {
     public static boolean canElytraFly(Player player) {
         if (hasValidElytra(player)) return true;
         AttributeInstance attr = player.getAttribute(CaelusApi.getInstance().getFallFlyingAttribute());
-        return attr != null && attr.getValue() > 0;
+        return attr != null && !attr.getModifiers().isEmpty();
     }
 
     public static void applyFlightVelocity(Player player) {
